@@ -1,0 +1,10 @@
+Exception-    It is unexpected situation where Java is unable to proceed with the code.
+            And the further flow of the program breaks down
+Example-     1. Any value dividef by zero
+             2. Accessing any value out of the range of an array
+Exception handling- To do make the execution of a program uninterrupted, we should handle the Exception
+
+Errors-     It indicate serious problems and abnormal conditions that most applications should not try to handle
+            Error defines problem that are not expected to be caught under normal circumstances by our program.
+            For Example memory error, computer error, JVM error etc. 
+            
